@@ -4,7 +4,7 @@
 @RestController를 통해, 서비스를 Restful하게 전달하는 방법을 익히고자 함.
 - 앞으로 SpringBoot를 통해 REST API를 개발할 때, 테스트용으로 사용하기 위해 branch로 버전을 분리하고 테스트/비교를 하기 위해 만든 깃.
 
-## Tutorial (https://spring.io/guides/gs/rest-service/)[https://spring.io/guides/gs/rest-service/]
+## Tutorial [https://spring.io/guides/gs/rest-service](https://spring.io/guides/gs/rest-service/)
 
 - HTTP GET 방식으로 request 할 경우 다음과 같은 JSON 데이터가 출력 되어야 한다.
 ```
